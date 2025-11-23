@@ -1,0 +1,7 @@
+{
+  "name": "AI Text Summarizer",
+  "description": "An AI-powered web application that summarizes any text, article, or uploaded file quickly and easily. It provides different summary types, translation, and can generate flashcards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
